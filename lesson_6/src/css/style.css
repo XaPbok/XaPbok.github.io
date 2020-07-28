@@ -1,0 +1,51 @@
+body{
+	font-family: tahoma;
+}
+.main-header{
+	font-size: 24px;	
+	margin-top: 120px;
+}
+.main-header strong{
+	text-transform: uppercase;
+}
+.form{
+	border: 5px solid #2727d9;
+	height: 315px;
+	margin-bottom: 15px;	
+}
+.form-header{
+	font-size: 20px;
+	font-weight: 900;
+	padding-top: 30px;
+	margin-bottom: 40px;
+}
+.form-itm{
+	margin-top: 15px;
+	font-size: 18px;
+}
+.form-btn{
+	background-color: #3c3cdd;
+	height: 65px;
+	color: white;
+}
+.video-form{
+	margin-top: 85px;
+}
+.adventages{
+	margin-top: 90px;
+}
+.adventage{
+	font-size: 16px;
+	font-weight: 900;
+	padding-top: 20px;
+}
+.btn-primary{
+	width: 100%;
+	margin-top: 90px;	
+}
+.photos{
+	padding-bottom: 30px;
+}
+.client-header{
+	padding-bottom: 70px;
+}
