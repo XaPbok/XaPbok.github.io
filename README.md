@@ -9,3 +9,4 @@ Developer with god hands
 * [lesson_4](https://github.com/XaPbok/XaPbok.github.io/tree/master/lesson_4/src)
 * [lesson_5](https://github.com/XaPbok/XaPbok.github.io/tree/master/lesson_5/src)
 * [lesson_6](https://github.com/XaPbok/XaPbok.github.io/tree/master/lesson_6/src)
+* [lesson_7](https://github.com/XaPbok/XaPbok.github.io/tree/master/lesson_7/src)
