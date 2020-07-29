@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Ranchers';
+    src: url('../fonts/Ranchers-Regular.eot');
+    src: url('../fonts/Ranchers-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/Ranchers-Regular.woff2') format('woff2'),
+        url('../fonts/fonts/Ranchers-Regular.woff') format('woff'),
+        url('../fonts/Ranchers-Regular.ttf') format('truetype'),
+        url('../fonts/Ranchers-Regular.svg#Ranchers-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+.rowdies{
+	font-family: 'Rowdies', cursive;
+	font-size: 30px;
+}
+.ranchers{
+	font-family: 'Ranchers';
+	font-size: 30px;
+}
